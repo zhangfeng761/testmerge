@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testmerge.iml" filepath="$PROJECT_DIR$/.idea/modules/testmerge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testmerge_main.iml" filepath="$PROJECT_DIR$/.idea/modules/testmerge_main.iml" group="testmerge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testmerge_test.iml" filepath="$PROJECT_DIR$/.idea/modules/testmerge_test.iml" group="testmerge" />
+    </modules>
+  </component>
+</project>
